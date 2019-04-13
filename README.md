@@ -2,34 +2,36 @@
 
 ### Estado Actual
 
-Aplicación que permite visualizar la cantidad de venezolanos con respecto a ciertas temáticas y paises en una representación del globo terráqueo por medio de un histograma en 3D, lo cual será útil para dirigirse a las personas en los sitios y temáticas de interes por medio de un chat.
-
-### Tecnologías Usadas
-
-FrontEnd Framework: Angular
-Globo terraqueo: Three.js (librería basada en WebGL)
-Aplicación Backendless usando FireBase como gestor de Base de Datos no relacional
+Aplicación Web que permite visualizar un globo terráqueo con un histograma dinámico en tres dimensiones que representa la densidad de población originaria de venezuela respecto a su ubicación y a ciertas temáticas, el cual será de gran utilidad para la población venezolana cuando deseen dirigirse a las personas en un lugar específico o por una temática de interes compartida por medio de un chat, dando como resultado la posibilidad de generar desde oportunidades laborales tanto como académicas, culturales entre otras...
 
 ### Objetivo
 
-- Facilitar conexión entre Venezolanos fuera y dentro de Venezuela para compartir información del contexto con respecto a distintas índoles como laborales y académicas (entre otros...), permitiendo generar oportunidades que desarrollen las índoles anteriores mencionadas favoreciendo a ambos implicados de la comunicación.
+- Generar oportunidades que desarrollen las índoles anteriormente mencionadas favoreciendo a los actores implicados de la comunicación, por medio de un Networking Virtual entre Venezolanos.
 
 ### Palabras Clave
 
-- Comunicación
+- Networking
 - Seguridad
 - Oportunidad
 - Toma de decisiones
 
+### Tecnologías Usadas
+
+FrontEnd Framework: Angular 7
+Globo terraqueo y histograma: Three.js (librería basada en WebGL)
+Aplicación Backendless usando Firebase como gestor de Base de Datos no relacional
+
+## Futuro de la aplicación
+
 ### Innovación Futura aplicable
 
-- Permite generar relaciones con respecto a una índole específica de interes de una manera eficiente, ademas de un sistema de recomendación con respecto a las personas contactadas y las posibilidades positivas que generan las mismas.
+- Seguridad de la información compartida a través de las redes de comunicación Venezolana
 
-- Seguridad de los datos a través de la red de comunicación Venezolana
+- Sistema de recomendación basado en las personas contactadas y el número de las posibilidades generadas en personas que compartan los mismos intereses.
 
-- Componente de analítica robusto que permita a Venezolanos tomar decisiones hacia donde apuntar con respecto a temas de emprendimiento, academia entre otros...
+- Componente de analítica robusto que permita a Venezolanos tomar decisiones hacia donde dirigirse con respecto a temas de emprendimiento, academia entre otros...
 
-- Posibilidad de comunicarse sin conexión a internet
+- Posibilidad de comunicarse sin conexión a internet por medio de una Red descentralizada
 
 ### Teconologías a Usar
 

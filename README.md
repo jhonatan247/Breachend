@@ -1,27 +1,39 @@
 # Breachend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
+### Estado Actual
 
-## Development server
+Aplicación que permite visualizar la cantidad de venezolanos con respecto a ciertas temáticas y paises en una representación del globo terráqueo por medio de un histograma en 3D, lo cual será útil para dirigirse a las personas en los sitios y temáticas de interes por medio de un chat.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### Tecnologías Usadas
 
-## Code scaffolding
+FrontEnd Framework: Angular
+Globo terraqueo: Three.js (librería basada en WebGL)
+Aplicación Backendless usando FireBase como gestor de Base de Datos no relacional
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Objetivo
 
-## Build
+- Facilitar conexión entre Venezolanos fuera y dentro de Venezuela para compartir información del contexto con respecto a distintas índoles como laborales y académicas (entre otros...), permitiendo generar oportunidades que desarrollen las índoles anteriores mencionadas favoreciendo a ambos implicados de la comunicación.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+### Palabras Clave
 
-## Running unit tests
+- Comunicación
+- Seguridad
+- Oportunidad
+- Toma de decisiones
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Innovación Futura aplicable
 
-## Running end-to-end tests
+- Permite generar relaciones con respecto a una índole específica de interes de una manera eficiente, ademas de un sistema de recomendación con respecto a las personas contactadas y las posibilidades positivas que generan las mismas.
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+- Seguridad de los datos a través de la red de comunicación Venezolana
 
-## Further help
+- Componente de analítica robusto que permita a Venezolanos tomar decisiones hacia donde apuntar con respecto a temas de emprendimiento, academia entre otros...
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+- Posibilidad de comunicarse sin conexión a internet
+
+### Teconologías a Usar
+
+Cardano (Red de BlockChain open source)
+D3.js (Analítica y Visualización de Datos)
+TensorFlow (Framework para aprendizaje automático)
+
